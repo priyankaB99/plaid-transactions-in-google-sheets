@@ -1,11 +1,11 @@
 /***********************************************************************************
  * PULL PLAID TRANSACTIONS IN GOOGLE SHEETS
  * ---
+ * Repository Link: https://github.com/priyankaB99/plaid-transactions-in-google-sheets
  * Author: Priyanka Iyer
  * -- Based off a Frank Harris repo: https://github.com/hirefrank/plaid-txns-google-sheets/blob/master/README.md
  * Initial Date: Feb 15, 2026
  * MIT License
- *
  ***********************************************************************************/
 
 var SHEET = PropertiesService.getScriptProperties().getProperty('sheet'); // Add name of Google Sheet to Script Properties
